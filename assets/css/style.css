@@ -1,0 +1,75 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#me img {
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border: 5px whitesmoke solid;
+}
+
+#links img {
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.col-2 {
+    width: 400px;
+    height: 600px;
+}
+
+.container img {
+    width:  150px;
+    height: 150px;
+}
+
+.social img {
+    width: 50px;
+    height: 50px;
+}
+
+body {
+    background-image: url("https://anlscape.com.au/images/products/Large/qsys-sydney-sand.jpg?Action=thumbnail&Width=579&Height=579&algorithm=fill");
+}
+
+label {
+    text-decoration: indigo;
+}
+
+#about {
+    background-color: whitesmoke;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+form {
+    margin: 100px;
+    margin-bottom: 100px;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.card-img-top {
+    width: 440px;
+    height: 225px;
+}
+
+.card-footer {
+        background-color: whitesmoke;
+}
+
+
+#mainPort {
+    padding-top: 50px;
+}
+
+#mainCont {
+    padding-top: 25px;
+}
